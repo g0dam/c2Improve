@@ -1,0 +1,5 @@
+PASSWORD = "pkcn"
+SALT_KEY = "PKCN"
+LOCAL_IP = "192.168.0.32"
+LOCAL_PORT = 9002
+SERVER_AGET = "Apache Server" 
